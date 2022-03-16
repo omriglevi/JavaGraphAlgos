@@ -1,6 +1,5 @@
-package com.company;
+package com.omri;
 
-import java.util.List;
 import java.util.Set;
 
 public class Main {

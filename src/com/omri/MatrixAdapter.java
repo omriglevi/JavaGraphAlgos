@@ -1,4 +1,4 @@
-package com.company;
+package com.omri;
 
 import java.util.ArrayList;
 import java.util.Collection;

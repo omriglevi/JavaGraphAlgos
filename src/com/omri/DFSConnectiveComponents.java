@@ -1,4 +1,4 @@
-package com.company;
+package com.omri;
 
 
 import org.jetbrains.annotations.NotNull;
